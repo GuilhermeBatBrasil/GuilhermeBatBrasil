@@ -8,9 +8,7 @@
   <br />
 </div>
 
-<!-- Social -->
-<div align="center" style="display:flex; justify-content:center; gap:40px; align-items:flex-start;">
-  
+<div align="center" style="display:flex; justify-content:center; gap:60px; align-items:center;">
   <div align="center">
     <strong>Acesse meu site:</strong>
     <br />
@@ -18,7 +16,6 @@
       <img src="images/globe.gif" alt="Globe" height="80">
     </a>
   </div>
-
   <div align="center">
     <strong>Veja meu Linkedin:</strong>
     <br />
@@ -26,7 +23,6 @@
       <img src="images/linkedin.gif" alt="Linkedin" height="100">
     </a>
   </div>
-
   <div align="center">
     <strong>Escute músicas legais:</strong>
     <br />
@@ -34,8 +30,8 @@
       <img src="images/music.gif" alt="Music" height="100">
     </a>
   </div>
-
 </div>
+
 
 <p align="center">
   <img height="80" src="/images/wordart.png" alt="WordArt Title" />
