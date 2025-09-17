@@ -8,29 +8,29 @@
   <br />
 </div>
 
-<div align="center" style="display:flex; justify-content:center; gap:60px; align-items:center;">
-  <div align="center">
-    <strong>Acesse meu site:</strong>
-    <br />
-    <a href="https://portifolio-guilherme-eosin.vercel.app/">
-      <img src="images/globe.gif" alt="Globe" height="80">
-    </a>
-  </div>
-  <div align="center">
-    <strong>Veja meu Linkedin:</strong>
-    <br />
-    <a href="https://www.linkedin.com/in/guilhermebrasill/">
-      <img src="images/linkedin.gif" alt="Linkedin" height="100">
-    </a>
-  </div>
-  <div align="center">
-    <strong>Escute músicas legais:</strong>
-    <br />
-    <a href="https://www.youtube.com/watch?v=hN5X4kGhAtU&list=RDhN5X4kGhAtU&start_radio=1">
-      <img src="images/music.gif" alt="Music" height="100">
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Acesse meu site:</strong><br>
+      <a href="https://portifolio-guilherme-eosin.vercel.app/">
+        <img src="images/globe.gif" alt="Globe" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <strong>Veja meu Linkedin:</strong><br>
+      <a href="https://www.linkedin.com/in/guilhermebrasill/">
+        <img src="images/linkedin.gif" alt="Linkedin" height="100">
+      </a>
+    </td>
+    <td align="center">
+      <strong>Escute músicas legais:</strong><br>
+      <a href="https://www.youtube.com/watch?v=hN5X4kGhAtU&list=RDhN5X4kGhAtU&start_radio=1">
+        <img src="images/music.gif" alt="Music" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <p align="center">
