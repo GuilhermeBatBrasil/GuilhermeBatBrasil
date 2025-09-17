@@ -18,7 +18,7 @@
         <strong>Acesse meu site:</strong>
         <br /><br /><br />
         <p>
-          <img alt="Globe" height="80" src="images/globe.gif">
+          <img alt="Globe" height="80" src="https://raw.githubusercontent.com/GuilhermeBatBrasil/GuilhermeBatBrasil/main/images/globe.gif">
         </p>
       </a>
     </td>
@@ -27,7 +27,7 @@
         <strong>Veja meu Linkedin:</strong>
         <br /><br />
         <p>
-          <img height="100" alt="Linkedin" src="images/linkedin.gif"> 
+          <img height="100" alt="Linkedin" src="https://raw.githubusercontent.com/GuilhermeBatBrasil/GuilhermeBatBrasil/main/images/linkedin.gif"> 
         </p>
       </a>
     </td>
@@ -36,13 +36,15 @@
         <strong>Escute músicas legais:</strong>
         <br /><br />
         <p>
-          <img height="100" alt="Music" src="images/music.gif"> 
+          <img height="100" alt="Music" src="https://raw.githubusercontent.com/GuilhermeBatBrasil/GuilhermeBatBrasil/main/images/music.gif"> 
         </p>
       </a>
     </td>
   </tr>
 </table>
+
 </div>
+
 
 <p align="center">
   <img height="80" src="/images/wordart.png" alt="WordArt Title" />
