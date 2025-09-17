@@ -9,42 +9,33 @@
 </div>
 
 <!-- Social -->
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:40px; align-items:flex-start;">
+  
+  <div align="center">
+    <strong>Acesse meu site:</strong>
+    <br />
+    <a href="https://portifolio-guilherme-eosin.vercel.app/">
+      <img src="images/globe.gif" alt="Globe" height="80">
+    </a>
+  </div>
 
-<table style="margin:auto; width:80%;">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://portifolio-guilherme-eosin.vercel.app/">
-        <strong>Acesse meu site:</strong>
-        <br /><br /><br />
-        <p>
-          <img alt="Globe" height="80" src="https://raw.githubusercontent.com/GuilhermeBatBrasil/GuilhermeBatBrasil/main/images/globe.gif">
-        </p>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/guilhermebrasill/">
-        <strong>Veja meu Linkedin:</strong>
-        <br /><br />
-        <p>
-          <img height="100" alt="Linkedin" src="images/linkedin.gif">
-        </p>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=hN5X4kGhAtU&list=RDhN5X4kGhAtU&start_radio=1">
-        <strong>Escute músicas legais:</strong>
-        <br /><br />
-        <p>
-          <img height="100" alt="Music" src="images/music.gif">
-        </p>
-      </a>
-    </td>
-  </tr>
-</table>
+  <div align="center">
+    <strong>Veja meu Linkedin:</strong>
+    <br />
+    <a href="https://www.linkedin.com/in/guilhermebrasill/">
+      <img src="images/linkedin.gif" alt="Linkedin" height="100">
+    </a>
+  </div>
+
+  <div align="center">
+    <strong>Escute músicas legais:</strong>
+    <br />
+    <a href="https://www.youtube.com/watch?v=hN5X4kGhAtU&list=RDhN5X4kGhAtU&start_radio=1">
+      <img src="images/music.gif" alt="Music" height="100">
+    </a>
+  </div>
 
 </div>
-
 
 <p align="center">
   <img height="80" src="/images/wordart.png" alt="WordArt Title" />
