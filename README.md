@@ -12,6 +12,7 @@
   <tr>
     <td align="center">
       <strong>Acesse meu site:</strong><br>
+      <br />
       <a href="https://portifolio-guilherme-eosin.vercel.app/">
         <img src="images/globe.gif" alt="Globe" height="80">
       </a>
